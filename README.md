@@ -1,7 +1,8 @@
-R Programing || Assignment 2
-We will create two functions to creat a special object (m) to Cache the inverse of argument matrixand cache's the inverse,
-second one is to check if the inverse of argument matrix The first function, makeVector creates a special "vector", which 
-is really a list containing a function to
+ 
+
+ We will create two functions to creat a special object (m) to Cache the inverse of argument matrixand cache's the inverse,
+ second one is to check if the inverse of argument matrix The first function, makeVector creates a special "vector", which 
+ is really a list containing a function to
 	
   1.) set the value of the vector
   2.) get the value of the vector
